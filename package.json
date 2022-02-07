@@ -1,0 +1,15 @@
+{
+  "name": "jestcurso",
+  "version": "1.0.0",
+  "description": "pruebas con jets",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --watch"
+  },
+  "author": "carlos reyes <carlosarp2000@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^27.5.0"
+  }
+}
